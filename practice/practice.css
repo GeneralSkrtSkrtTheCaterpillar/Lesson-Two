@@ -1,0 +1,17 @@
+.woofer {
+color:pink;
+}
+
+#puppy-box {
+border: 5px dotted blue;
+padding: 20px;
+margin:50px;
+}
+
+.reason {
+width: 30%;
+display: inline-block;
+vertical-align: top;
+border: 5px dotted blue;
+
+}

@@ -1,0 +1,40 @@
+.can {
+text-align: center;
+
+}
+
+body {
+background-image: url("images/beast.jpg");
+background-color: transparent;
+background-size: 100% auto;
+background-repeat: no-repeat;
+}
+
+.moo {
+background-color: hsla(0, 0%, 100%, 0.61);
+border-radius: 50%;
+width:700px;
+height: 300px;
+line-height: 30px;
+box-shadow: 5px;
+
+
+}
+
+.miltank {
+float: right;
+
+}
+
+.DONT {
+padding: 10%;
+}
+
+.beastmode {
+  font-size: 18px;
+}
+
+.B {
+
+
+}
